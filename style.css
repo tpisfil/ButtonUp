@@ -1,0 +1,30 @@
+#search{
+    color: lightseagreen;
+    background-color: gainsboro;
+    border: 2px solid lightseagreen;
+    height: 30px;
+    width: 150px;
+    border-radius: 25px;
+    margin-bottom: 10px;
+    font-size: medium;
+}
+
+#plus{
+    color: white;
+    background-color: lightgreen;
+    border-radius: 50%;
+    border: none;
+    height: 40px;
+    width: 40px;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+#create{
+    color: white;
+    background-color:royalblue;
+    height: 45px;
+    width: 170px;
+    font-size: medium;
+    box-shadow: 4px 4px black;
+}
